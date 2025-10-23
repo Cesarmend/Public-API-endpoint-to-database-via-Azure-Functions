@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**https://####.azurewebsites.net/{parameters}**
+**_https://####.azurewebsites.net/{parameters}_**
 
 </div>
 
@@ -22,28 +22,28 @@
 ## 📃Steps Followed
 
 1. **Azure account creation**  
-   Create/verify your Azure subscription and resource group.
+   _Create/verify your Azure subscription and resource group._
 
 2. **Azure CLI**  
-   Sign in and set your default subscription/region.
+   _Sign in and set your default subscription/region._
 
 3. **Python code**  
-   Implement the function handler (HTTP trigger) and minimal logic.
+   _Implement the function handler (HTTP trigger) and minimal logic._
 
 4. **Azure commands**  
-   Initialize the Function App and local settings; prepare for deployment.
+   _Initialize the Function App and local settings; prepare for deployment._
 
 5. **Requirements & settings**  
-   Add `requirements.txt` (e.g., `azure-functions`, `requests`) and any needed app settings.
+   _Add `requirements.txt` (e.g., `azure-functions`, `requests`) and any needed app settings._
 
 6. **Validation**  
-   Run locally to confirm expected responses and status codes.
+   _Run locally to confirm expected responses and status codes._
 
 7. **Publish function**  
-   Deploy the Function App to Azure; confirm the public URL.
+   _Deploy the Function App to Azure; confirm the public URL._
 
 8. **Test API requests in Postman**  
-   Exercise the endpoint with sample parameters and headers; save a collection if needed.
+   _Exercise the endpoint with sample parameters and headers; save a collection if needed._
 
 ---
 
