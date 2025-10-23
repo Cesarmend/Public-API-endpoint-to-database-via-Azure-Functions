@@ -48,8 +48,15 @@
 ---
 
 ## POSTMAN TEST
+- **GET**
 <img width="1351" height="727" alt="image" src="https://github.com/user-attachments/assets/f4666b6e-02f7-415b-9c39-5006a1dddd17" />
+
+- **POST**
 <img width="1370" height="716" alt="image" src="https://github.com/user-attachments/assets/378190df-8961-4aeb-8c87-b661513f988f" />
+
+- **AZURE DASHBOARD**
+<img width="757" height="141" alt="image" src="https://github.com/user-attachments/assets/97697808-465f-4cc6-b7af-ba7f26dffc5d" />
+
 
 
 
